@@ -16,11 +16,11 @@ a{color:black;}
 #ppl{height:200px; width:600px; background-color:white; margin:auto;border:1px solid black;border-radius:20%;}
 
 body{background-color:#ccffff;}
-#bdy{width:800px; height:100%; background-color:white; margin:auto;}
+#bdy{width:800px; height:100%; background-color:white; margin:auto; border-radius:20%;}
 
 .content{border:1px solid black; border-radius:20%;
 margin:auto; height:300px; width:605px; 
 background-image:url("https://d1np90lc8wnxbg.cloudfront.net/sites/default/files/IMG_1509.jpg");
 background-repeat:no-repeat; background-size:605px 300px; color:white;}
 
-#calender{width:900px; height:100%; background-color:white; margin:auto;}
+#calender{width:900px; height:100%; background-color:white; margin:auto; border-radius:20%;}
